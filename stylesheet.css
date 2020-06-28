@@ -25,10 +25,9 @@
 }
 
 .dropdown-content a:hover {
-    background-color: lightcyan;
+    background-color: rgba(19, 226, 226, 0.1);
 }
 
 .dropdown:hover .dropdown-content {
     display: block;
-
 }
